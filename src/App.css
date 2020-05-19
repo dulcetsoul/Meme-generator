@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&display=swap');
+*{
+  background-color: rgb(255,255,0); 
+}
+.App {
+  text-align: center;
+  font-family: 'Chelsea Market', cursive;
+  
+  font-size: 20px;  
+}
+
+.btn{
+  color:white;
+  background-color: #007FFF;
+  height:40px;
+  width:200px;
+  margin-top: 20px;
+  outline: none;
+  border:transparent;
+  border-radius: 2px;
+  font-family: 'Balsamiq Sans', cursive;
+  
+}
+
